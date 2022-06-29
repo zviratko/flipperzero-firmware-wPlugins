@@ -14,11 +14,6 @@ $ docker-compose exec dev ./fbt
 ```
 
 Latest Updates:
-- Fixed to show version as 0.61.0
-- Fixed to show branch as dev
-- Latest fixes and updates from dev
-- Development free space thanks to removal of unused debug tools and [thanks to ESurge](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/46/files) for removal of first start assets.
-- Updated Battery Meter on Desktop [Thanks to McAzzaMan](https://github.com/McAzzaMan/flipperzero-firmware/tree/BatteryPercentageView)
 - Added [PicoPass/iClass Reader (By Bettse and PCunning)](https://github.com/flipperdevices/flipperzero-firmware/pull/1298)
 - - Key files can be found [here](https://gitlab.com/bettse/iclassreader/-/tree/master/include)
 - - Important work for iClass emulation can be found [here](https://github.com/RfidResearchGroup/ChameleonMini/pull/91)
