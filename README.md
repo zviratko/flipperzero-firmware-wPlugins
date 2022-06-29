@@ -19,6 +19,8 @@ Latest Updates:
 - Latest fixes and updates from dev
 - Development free space thanks to removal of unused debug tools and [thanks to ESurge](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/pull/46/files) for removal of first start assets.
 - Added [PicoPass/iClass Reader (By Bettse and PCunning)](https://github.com/flipperdevices/flipperzero-firmware/pull/1298)
+- - Key files can be found [here](https://gitlab.com/bettse/iclassreader/-/tree/master/include)
+- - Important work for iClass emulation can be found [here](https://github.com/RfidResearchGroup/ChameleonMini/pull/91)
 
 **Special Instructions:**
 - Download these files into the subghz/assets folder on your SD card. Edit the two `_map` files to contain your specific subghz (.SUB) files.
