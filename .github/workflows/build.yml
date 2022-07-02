@@ -15,7 +15,7 @@ env:
 
 jobs:
   main:
-    runs-on: [self-hosted,FlipperZero]
+#    runs-on: [self-hosted,FlipperZero]
     steps:
       - name: 'Cleanup workspace'
         uses: AutoModality/action-clean@v1
